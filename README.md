@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Luiza Santos</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h1 align="center">I'm Luiza Santos</h1>
+<h3 align="center">A passionate data scientist anf life-long learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizamfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="luizamfsantos" /> </p> 
 
