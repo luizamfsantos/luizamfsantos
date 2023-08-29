@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I recently worked on [Analyzing Road Constructions Data in the state of Pairaba, Brazil](https://github.com/luizamfsantos/Data-Analysis-of-Constructions-in-Paraiba-Brazil)
+- 🔭 I recently worked on [Iris Dataset](https://github.com/luizamfsantos/RDScML/tree/iris_data/dev/luizamfsantos/iris_data)
 
-- 👯 I’m looking to collaborate on [Analyzing Highway Accidents in the State of Paraíba, Brazil](https://github.com/luizamfsantos/Acidentes-de-Transito-Paraiba)
+- 👯 I want to collaborate. Please message me!
 
-- 🌱 I’m currently learning **LLMs**, **AWS Cloud**
+- 🌱 I’m currently learning  **ML Algorithms**, **LLMs**, **AWS Cloud**
   
 - 👨‍💻 All of my projects are available at [https://luizamfsantos.github.io](https://luizamfsantos.github.io)
 
