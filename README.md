@@ -9,6 +9,7 @@
 
 
 
+- 📌 I'm currently working on applications of Reinforcement Learning on AWS Cloud [Check it out](https://github.com/luizamfsantos/AWS-Student-DeepRacer)
 
 - 🔭 I recently worked on [Iris Dataset](https://github.com/luizamfsantos/RDScML/tree/iris_data/dev/luizamfsantos/iris_data)
 
