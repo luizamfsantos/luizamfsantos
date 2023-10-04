@@ -9,13 +9,11 @@
 
 
 
-- 📌 I'm currently working on applications of Reinforcement Learning on AWS Cloud [Check it out](https://github.com/luizamfsantos/AWS-Student-DeepRacer)
+- 📌 I'm currently working on two private projects (I promise I'll publish them once the deadline is over)
 
-- 🔭 I recently worked on [Iris Dataset](https://github.com/luizamfsantos/RDScML/tree/iris_data/dev/luizamfsantos/iris_data)
+- 🔭 I'm also currently learning how to develop unittesting. I'd say I'm about a half beginner at this point. 
 
-- 👯 I want to collaborate. Please message me!
-
-- 🌱 I’m currently learning  **ML Algorithms**, **LLMs**, **AWS Cloud**
+- 🌱 Some big buckets I've been focusing are:  **ML Algorithms**, **LLMs**, **AWS Cloud**
   
 - 👨‍💻 All of my projects are available at [https://luizamfsantos.github.io](https://luizamfsantos.github.io)
 
@@ -23,7 +21,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/santosluiza/**
 
-- ⚡ Fun fact **I went skydiving when I was 16**
+- 👯 I want to collaborate. Please message me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
