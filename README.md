@@ -9,9 +9,9 @@
 
 
 
-- 📌 I'm currently working on two private projects (I promise I'll publish them once the deadline is over)
+- 📌 I'm currently working on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
 
-- 🔭 I'm also currently learning how to develop unittesting. I'd say I'm about a half beginner at this point. 
+- 🔭 I'm also currently learning how to develop unittesting. I'm editting a lot of my old repos to include a /test folder where I am implementing this very important principle.
 
 - 🌱 Some big buckets I've been focusing are:  **ML Algorithms**, **LLMs**, **AWS Cloud**
   
