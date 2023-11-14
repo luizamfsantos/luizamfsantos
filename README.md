@@ -9,13 +9,11 @@
 
 
 
-- 📌 I'm currently working on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
+- 📌 I'm recently worked on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
 
-- 🔭 I'm also currently learning how to develop unittesting. I'm editting a lot of my old repos to include a /test folder where I am implementing this very important principle.
+- 🔭 I'm also currently learning how to develop more modular code. I would appreciate any feedback on my repos. 
 
-- 🌱 Some big buckets I've been focusing are:  **ML Algorithms**, **LLMs**, **AWS Cloud**
-  
-- 👨‍💻 All of my projects are available at [https://luizamfsantos.github.io](https://luizamfsantos.github.io)
+- 🌱 Some big buckets I've been focusing are:  **Data Governance**, **Data Modeling**, **CD4ML**
 
 - 💬 Ask me about **Data, Statistics, Mathematics, Dogs, Camping, Traveling,...**
 
