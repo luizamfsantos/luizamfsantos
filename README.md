@@ -9,7 +9,7 @@
 
 
 
-- 📌 I'm recently worked on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
+- 📌 I recently worked on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
 
 - 🔭 I'm also currently learning how to develop more modular code. I would appreciate any feedback on my repos. 
 
