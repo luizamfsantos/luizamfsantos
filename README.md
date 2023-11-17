@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi y'all! 👋
 
 <h1 align="center">I'm Luiza Santos</h1>
 <h3 align="center">A driven data enthusiast specializing in engineering solutions</h3>
@@ -9,13 +9,13 @@
 
 
 
-- 📌 I recently worked on [Bitcoin OTC Trust Weighted Signed Network Analysis](https://github.com/luizamfsantos/Bitcoin-Trust-Analysis)
+- 📌 I'm working on three projects right now, check them out: [1](https://github.com/luizamfsantos/CPI-BER-Time-Series-Analysis), [2](https://github.com/luizamfsantos/Mauna-Loa-CO2-Analysis), [3](https://github.com/luizamfsantos/CNN-Image-Dog-Classifier).
 
 - 🔭 I'm also currently learning how to develop more modular code. I would appreciate any feedback on my repos. 
 
-- 🌱 Some big buckets I've been focusing are:  **Data Governance**, **Data Modeling**, **CD4ML**
+- 🌱 Some big buckets I've been focusing are:  **Clean Code**, **CNN**, **Time Series Analysis**
 
-- 💬 Ask me about **Data, Statistics, Mathematics, Dogs, Camping, Traveling,...**
+- 💬 Ask me about **Mathematics, Dogs, Camping, Traveling,...**
 
 - 📫 How to reach me **https://www.linkedin.com/in/santosluiza/**
 
