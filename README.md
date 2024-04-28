@@ -9,11 +9,11 @@
 
 
 
-- 📌 I'm working on three projects right now, check them out: [1](https://github.com/luizamfsantos/CPI-BER-Time-Series-Analysis), [2](https://github.com/luizamfsantos/Mauna-Loa-CO2-Analysis), [3](https://github.com/luizamfsantos/CNN-Image-Dog-Classifier).
+- 📌 Mostly coding for work, but need to take some fun projects soon.
 
-- 🔭 I'm also currently learning how to develop more modular code. I would appreciate any feedback on my repos. 
+- 🔭 I would appreciate any feedback on my repos especially on best coding practices.
 
-- 🌱 Some big buckets I've been focusing are:  **Clean Code**, **CNN**, **Time Series Analysis**
+- 🌱 Some big buckets I've been focusing are:  **DB Indexing**, **Processing Time**, **Memory Allocation**
 
 - 💬 Ask me about **Mathematics, Dogs, Camping, Traveling,...**
 
