@@ -9,7 +9,7 @@
 
 
 
-- 📌 Currently working on: [Long Short Trader Using Deep Leearning](https://github.com/luizamfsantos/long-short-lstm)
+- 📌 Currently working on: [Long Short Trader Using Deep Learning](https://github.com/luizamfsantos/long-short-lstm)
 
 - 🔭 I would appreciate any feedback on my repos.
 
