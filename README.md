@@ -1,7 +1,7 @@
 ### Hi y'all! 👋
 
 <h1 align="center">My name is Luiza Santos</h1>
-<h3 align="center">I'm a data engineer/Machine learning enthusiast </h3>
+<h3 align="center">I'm a researcher and engineer from Brazil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizamfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="luizamfsantos" /> </p> 
 
@@ -9,7 +9,7 @@
 
 
 
-- 📌 Currently working on: [Long Short Trader Using Deep Learning](https://github.com/luizamfsantos/long-short-lstm)
+- 📌 Currently working on: some projects not yet ready to see the light of day. Don't fret, I got a lot of open repositories for you to dig. 
 
 - 🔭 I would appreciate any feedback on my repos.
 
