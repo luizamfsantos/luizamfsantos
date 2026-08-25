@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=luizamfsantos" alt="luizamfsantos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizamfsantos&" alt="luizamfsantos" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamfsantos/luizamfsantos/output/github-contribution-grid-snake-dark.svg">
