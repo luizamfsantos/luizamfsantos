@@ -13,6 +13,33 @@
 
 <br>
 
+### Highlighted Projects
+
+**[or-experiments-template](https://github.com/luizamfsantos/or-experiments-template)** — Scaffold for optimization-research group projects · *Last worked on: August 2026*
+- Pre-commit hooks enforcing complexity limits (radon), lint/format (ruff), and stripped notebook outputs
+- GitHub Actions CI (lint + pytest with coverage) gated by CODEOWNERS branch protection
+- Experiment configs require a goal/hypothesis/design-note/status block for traceability
+- Multiple solver backends (Pyomo/Gurobi/HiGHS, CP-SAT, heuristics) reporting into one comparable result schema
+
+**[bot-detection-mlflow](https://github.com/luizamfsantos/bot-detection-mlflow)** — Modular ML training and evaluation pipeline · *Last worked on: June 2026*
+- MLflow experiment tracking with config-driven runs (YAML per experiment)
+- Statistical comparison of algorithm performance, not just point metrics
+- Model serving via a `/predict` endpoint with automatic feature imputation
+- Health-check endpoint for deployment readiness
+
+**[long-short-lstm](https://github.com/luizamfsantos/long-short-lstm)** — LSTM-based long-short trading strategy · *Last worked on: May 2025*
+- End-to-end pipeline: data ingestion → LSTM model → trading strategy → backtesting simulation
+- Dockerized for reproducible training and simulation runs
+- Test suite covering ingestion, model, trading, and simulator logic
+
+**[Weather-Data-Pipeline](https://github.com/luizamfsantos/Weather-Data-Pipeline)** — ELT pipeline for NOAA's Integrated Surface Database · *Last worked on: June 2023*
+- Ingests 1.4B+ hourly records (12GB, ~13,000 archive files) from 10,000+ stations via AWS S3
+- Orchestrated with Apache Airflow (download → extract → combine → stage → upsert)
+- PostgreSQL staging/transform layer feeding a Metabase dashboard for real-time analytics
+- Fully containerized with Docker Compose
+
+<br>
+
 ### Tech Stack
 
 <p align="center">
